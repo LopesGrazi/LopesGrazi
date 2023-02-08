@@ -1,5 +1,18 @@
-Olá!  Seja  bem vindo.
+Olá!  Seja  bem vind.
 
-Amo dados e tecnologia.
+Eu sou Graziele Lopes
 
-Administradora de Bancos de Dados com conhecimentos em MySQLWorkbench, PostgreSQL, MongoDB, Python, .R e PowerBI.
+Administradora de Bancos de Dados e Analista de Business Intelligence 
+
+Tenho foco no desenvolvimento das  linguagens  Python e R.
+
+<div>
+     
+       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lopesgrazi&show_icons=true&theme=tokyonight"/>
+
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lopesgrazi&layout=compact&theme=tokyonight"/>
+
+</div>
+
+  
+  
