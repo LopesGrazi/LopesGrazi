@@ -1,4 +1,4 @@
-Olá!  Seja  bem vind.
+Olá!  Seja  bem vindo.
 
 Eu sou Graziele Lopes
 
